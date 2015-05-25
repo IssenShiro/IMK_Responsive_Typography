@@ -1,0 +1,24 @@
+body.normal {
+
+}
+
+body.far {
+
+}
+
+body.close {
+
+}
+
+body.far #first-paragraph {
+	font-size: 24px;
+}
+
+body.close #first-paragraph {
+	font-size: 10px;
+}
+
+body.close div.main-box {
+	background-color: #CFCFCF;
+
+}

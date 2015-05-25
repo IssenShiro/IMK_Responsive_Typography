@@ -1,0 +1,36 @@
+{
+  "name": "paper",
+  "description": "paper headtracking via webcam and WebRTC/getUserMedia",
+  "keywords": [
+    "webcam",
+    "headtracking",
+    "computer vision",
+    "facetracking"
+  ],
+  "version": "1.0.2",
+  "author": "Kelompok 9 IMK B Institut Teknologi Sepuluh Nopember",
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "bugs": "",
+  "main": "app.js",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "cookie-parser": "^1.3.5",
+    "ejs": "^2.3.1",
+    "express": "^4.12.4",
+    "morgan": "^1.5.3",
+    "path": "^0.11.14",
+    "serve-favicon": "^2.2.1"
+  }
+}
